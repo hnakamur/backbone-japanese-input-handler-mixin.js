@@ -1,0 +1,24 @@
+{
+  "name": "backbone-japanese-input-handler-mixin.js",
+  "version": "0.1.0",
+  "description": "Japanese input handler mixin for Backbone.js",
+  "main": "backbone-japanese-input-handler-mixin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hnakamur/backbone-japanese-input-handler-mixin.js.git"
+  },
+  "keywords": [
+    "Backbone.js",
+    "Japanese",
+    "input"
+  ],
+  "author": "Hiroaki Nakamura <hnakamur@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hnakamur/backbone-japanese-input-handler-mixin.js/issues"
+  },
+  "homepage": "https://github.com/hnakamur/backbone-japanese-input-handler-mixin.js"
+}
