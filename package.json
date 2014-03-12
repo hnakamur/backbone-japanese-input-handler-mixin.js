@@ -1,5 +1,5 @@
 {
-  "name": "backbone-japanese-input-handler-mixin.js",
+  "name": "backbone-japanese-input-handler-mixin",
   "version": "0.1.1",
   "description": "Japanese input handler mixin for Backbone.js",
   "main": "backbone-japanese-input-handler-mixin.js",
