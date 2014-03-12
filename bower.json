@@ -1,7 +1,7 @@
 {
   "name": "backbone-japanese-input-handler-mixin.js",
   "main": "backbone-japanese-input-handler-mixin.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/hnakamur/backbone-japanese-input-handler-mixin.js",
   "authors": [
     "Hiroaki Nakamura <hnakamur@gmail.com>"
